@@ -48,3 +48,4 @@ You will need the following items:
 
 ## 📚  Resources 
 This lesson is in no way an original lesson plan by this author.  It is based on [this Instructible from BCat](https://www.instructables.com/ChapStick-LED-Flashlight/).  Thank you for the insiration!
+![](https://mirrors.creativecommons.org/presskit/buttons/80x15/png/by-nc-sa.png)
