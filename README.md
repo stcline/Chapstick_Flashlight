@@ -42,7 +42,7 @@ You will need the following items:
 
 ## Wiring the Switch
 
-## Final Assimbly
+## Final Assembly
 
 ## 📝 Next steps
 In order to complete the assighment, take a video of the working flashlight (mp4 or mov file type).  Create a new markdown file which describes, in your own words, how you think this flashlight works.  Use the technique in the video below, embed your video in the file so I can see your working flashlight.
