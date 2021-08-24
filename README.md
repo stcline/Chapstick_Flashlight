@@ -31,7 +31,7 @@ You will need the following items:
 
 The circuit for this device is simple enough.  There are only four components as shown here:
 
-![circuit](https://user-images.githubusercontent.com/22602103/130541280-094fb31c-b9ee-45ea-b741-538efadd5f26.JPG)
+![Chapstick_Circuit](https://user-images.githubusercontent.com/22602103/130659366-56e1ab3b-4322-4e7c-82ab-3e916f82106e.JPG)
 
 Build the circuit on your breadboard first to make sure you understand how it works.
 
