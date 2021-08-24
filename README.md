@@ -33,6 +33,8 @@ The circuit for this device is simple enough.  There are only four components as
 
 ![circuit](https://user-images.githubusercontent.com/22602103/130541280-094fb31c-b9ee-45ea-b741-538efadd5f26.JPG)
 
+Build the circuit on your breadboard first to make sure you understand how it works.
+
 ## Soldering the LED to the Resistor
 1. Cut the cathode of the LED to 6 mm.
 2. Solder the resistor to the cathode.
@@ -62,7 +64,7 @@ The circuit for this device is simple enough.  There are only four components as
 ![IMG_20210823_085522645](https://user-images.githubusercontent.com/22602103/130541939-e8e6b77b-1d09-48c8-b570-d55a74f91e94.jpg)
 
 3. After it's in place, glue the back side (the portion that goes up into the tube).  Be careful not to put too much on.  If it leaks through to the other side it can make the switch inoperable.
-4. After the Epoxy dries, you can trim it up with a razor blade.
+4. After the Epoxy/glue dries, you can trim it up with a razor blade or exacto knife.
 
 ## Wiring the Switch
 1. Place the top assembly, including the battery, inside the tube and position is so that the resistor that is attached to the cathode is sticking out of the tube.
@@ -73,9 +75,12 @@ The circuit for this device is simple enough.  There are only four components as
 3. Solder that connection.
 4. Solder the base to the other leg and be careful not to create a short between the two legs.
 
+![IMG_20210824_075340983](https://user-images.githubusercontent.com/22602103/130629457-fbd85286-c258-41fc-978c-0227fc764b46.jpg)
+
 ## Final Assembly
 
 Close up the base.  Test out the switch.  If everything is connected properly, your light should come on. 
+![IMG_20210824_075601011](https://user-images.githubusercontent.com/22602103/130629855-8baae20a-ac1c-4120-9813-bca1176ccca2.jpg)
 
 ## 📝 Next steps
 In order to complete the assighment, take a video of the working flashlight (mp4 or mov file type).  Create a new markdown file which describes, in your own words, how you think this flashlight works.  Use the technique in the video below, embed your video in the file so I can see your working flashlight.
